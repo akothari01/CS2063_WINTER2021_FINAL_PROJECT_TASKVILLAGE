@@ -1,4 +1,4 @@
-![Screenshot_20210413-022759](https://user-images.githubusercontent.com/74020378/114504930-00144f80-9c06-11eb-9b09-5497f0434d7b.jpg)
+
 # TaskVillage
 CS2063 GROUP PROJECT
 
@@ -28,5 +28,8 @@ REQUIREMENTS
 Minimum SDK: 23
 Gradle plugin version used: 4.0.2
 Gradle version: 6.1.1
+
+![Screenshot_20210413-022759_2](https://user-images.githubusercontent.com/74020378/114505329-96e10c00-9c06-11eb-9acc-0c18e9b2303b.jpg)
+
 
 
