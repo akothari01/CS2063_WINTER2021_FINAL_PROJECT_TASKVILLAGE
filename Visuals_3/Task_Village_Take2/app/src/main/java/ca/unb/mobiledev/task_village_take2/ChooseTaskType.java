@@ -14,6 +14,8 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
 
+import android.content.pm.ActivityInfo;
+
 import java.time.LocalDate;
 import java.util.List;
 
