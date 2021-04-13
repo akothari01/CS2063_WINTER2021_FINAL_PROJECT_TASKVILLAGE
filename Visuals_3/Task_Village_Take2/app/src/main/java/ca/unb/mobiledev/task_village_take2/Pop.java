@@ -6,6 +6,8 @@ import android.os.Bundle;
 import android.util.DisplayMetrics;
 import android.widget.TextView;
 
+import android.content.pm.ActivityInfo;
+
 import androidx.annotation.Nullable;
 
 import org.w3c.dom.Text;
