@@ -87,7 +87,7 @@ public class MainActivity extends AppCompatActivity implements Serializable {
         taskViewModel = new ViewModelProvider(this).get(TaskViewModel.class);
 
         setContentView(R.layout.activity_main);
-
+        setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
         villageId = Integer.parseInt(getIntent().getStringExtra("Village"));
 
         //listView = findViewById(R.id.listviewID);
