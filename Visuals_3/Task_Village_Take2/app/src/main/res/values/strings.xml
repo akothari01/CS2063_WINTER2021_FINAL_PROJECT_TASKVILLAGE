@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Task_Village_Take2</string>
+    <string name="title_activity_create_task">Create Task</string>
+    <string name="create">Create Task</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="cancel">Cancel</string>
+    <string name="nametask">Task Name</string>
+    <string name="nameTitle">Inhabitant:</string>
+    <string name="nameprio">Priority</string>
+    <string name="namedeadline">Deadline</string>
+    <string name="namedesc">Description</string>
+    <string name="nametype">Type</string>
+    <string name="date">YYYY/MM/DD</string>
+
+    <string-array name="priority_levels">
+        <item>Urgent and Important</item>
+        <item>Not Urgent but Important</item>
+        <item>Urgent and not Important</item>
+        <item>Not Urgent and not Important</item>
+    </string-array>
+
+    <string name="hintname">name of the task</string>
+    <string name="hintdesc">short description</string>
+
+    <string-array name="types">
+        <item>Leisure</item>
+        <item>Work</item>
+    </string-array>
+    <string name="title_activity_task_calendar">TaskCalendarActivity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="not_urgent_but_important">Not urgent but important</string>
+    <string name="urgent_and_important">Urgent and Important</string>
+    <string name="not_urgent_and_not_important">Not urgent and not important</string>
+    <string name="urgent_but_not_important">Urgent but not important</string>
+    <string name="choose_the_type_of_task">Choose the type of task</string>
+    <string name="view_tasks">VIEW TASKS</string>
+    <string name="done">Done</string>
+    <string name="overdue_tasks">Overdue Tasks</string>
+
+</resources>
