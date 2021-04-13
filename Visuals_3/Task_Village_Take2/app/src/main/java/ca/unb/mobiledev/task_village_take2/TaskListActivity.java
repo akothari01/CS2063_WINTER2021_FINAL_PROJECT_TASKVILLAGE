@@ -15,6 +15,8 @@ import android.widget.Button;
 import android.widget.ListView;
 import android.widget.TextView;
 
+import android.content.pm.ActivityInfo;
+
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
