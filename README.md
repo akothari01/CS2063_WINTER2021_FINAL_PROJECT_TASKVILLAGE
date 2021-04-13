@@ -13,10 +13,19 @@ iii. the danger is real, slack off on tasks and lose your village.
 Task village motivates you to do your tasks at your own pace and visualizing your progress but always keeping you on your toes.
 
 Features:
-i.   Create tasks.
-ii.  tasks are organized based on a priority matrix and datewise.
-iii. view tasks based on priority and month and year.
-iv.  Finish tasks to get houses.
-v.   Random generator generates inhabitants for each house
-vi.  Houses are also randomly generated
-vii. Get all your progress summarised on the main page.
+i.    Create tasks.
+ii.   tasks are organized based on a priority matrix and datewise.
+iii.  view tasks based on priority and month and year.
+iv.   Finish 2 tasks to get a house.
+v.    Random generator generates inhabitants for each house
+vi.   Houses are also randomly generated
+vii.  Get all your progress summarised on the main page.
+viii. Have more than 5 tasks overdue, and lose progress.
+
+
+REQUIREMENTS
+Minimum SDK: 23
+Gradle plugin version used:4.0.2
+Gradle version: 6.1.1
+
+
