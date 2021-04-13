@@ -25,7 +25,7 @@ viii. Have more than 5 tasks overdue, and lose progress.
 
 REQUIREMENTS
 Minimum SDK: 23
-Gradle plugin version used:4.0.2
+Gradle plugin version used: 4.0.2
 Gradle version: 6.1.1
 
 
