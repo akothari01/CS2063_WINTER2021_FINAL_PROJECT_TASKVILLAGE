@@ -20,6 +20,8 @@ import androidx.lifecycle.LiveData;
 import androidx.lifecycle.Observer;
 import androidx.lifecycle.ViewModelProvider;
 
+import android.content.pm.ActivityInfo;
+
 import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
