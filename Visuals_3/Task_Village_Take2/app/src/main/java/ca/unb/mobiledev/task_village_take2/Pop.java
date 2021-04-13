@@ -19,7 +19,7 @@ public class Pop extends Activity {
         setContentView(R.layout.popupwindow);
         DisplayMetrics dm = new DisplayMetrics();
         getWindowManager().getDefaultDisplay().getMetrics(dm);
-
+        setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
         getActionBar().hide();
 
         int width = dm.widthPixels;
