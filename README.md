@@ -29,7 +29,8 @@ Minimum SDK: 23
 Gradle plugin version used: 4.0.2
 Gradle version: 6.1.1
 
-![Screenshot_20210413-022759_2](https://user-images.githubusercontent.com/74020378/114505329-96e10c00-9c06-11eb-9acc-0c18e9b2303b.jpg)
+![Screenshot_20210413-034509](https://user-images.githubusercontent.com/74020378/114508623-f6d9b180-9c0a-11eb-9a18-d183541ed0c4.png)
+
 
 
 
