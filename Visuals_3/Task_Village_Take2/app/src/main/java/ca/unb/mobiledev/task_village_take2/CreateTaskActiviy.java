@@ -46,7 +46,7 @@ public class CreateTaskActiviy extends AppCompatActivity implements DatePickerDi
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_create_task_activiy);
-
+        setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
         getSupportActionBar().hide();
 
         mTaskView = new ViewModelProvider(this).get(TaskViewModel.class);
