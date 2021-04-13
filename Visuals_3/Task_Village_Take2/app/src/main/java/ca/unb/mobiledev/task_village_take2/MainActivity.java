@@ -37,6 +37,8 @@ import java.util.ArrayList;
 import java.time.LocalDate;
 import java.util.Date;
 
+import android.content.pm.ActivityInfo;
+
 import java.util.Calendar;
 import java.util.List;
 import java.util.Random;
