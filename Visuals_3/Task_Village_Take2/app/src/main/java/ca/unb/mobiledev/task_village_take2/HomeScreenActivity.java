@@ -47,7 +47,7 @@ public class HomeScreenActivity extends AppCompatActivity implements Serializabl
         getSupportActionBar().hide();
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_home_screen);
-
+        setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
 
 
         /**
