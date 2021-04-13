@@ -19,6 +19,7 @@ public class CreateVillageActivity extends AppCompatActivity{
         super.onCreate(savedInstanceState);
 
         setContentView(R.layout.activity_create_village_activity);
+        setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
         EditText text = (EditText)findViewById(R.id.vilNameField);
         Button button = findViewById(R.id.enterVil);
 
